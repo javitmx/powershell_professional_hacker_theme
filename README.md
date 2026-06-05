@@ -1,43 +1,7 @@
-# powershell_professional_hacker_theme
-<div align="center">
 
-# 🟢 HACKER TERMINAL 2026
+# Hacker Terminal 2026
 
-### *Transforma tu PowerShell en una terminal hacker profesional con un solo click*
-
-![PowerShell](https://img.shields.io/badge/PowerShell-7.0%2B-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-10%2F11-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![License](https://img.shields.io/badge/License-MIT-00FF41?style=for-the-badge)
-![Version](https://img.shields.io/badge/Version-1.0-9D00FF?style=for-the-badge)
-
-![Banner](https://via.placeholder.com/800x200/000000/00FF41?text=HACKER+TERMINAL+2026)
-
-[Instalación](#-instalación) •
-[Características](#-características) •
-[Comandos](#-comandos-personalizados) •
-[Troubleshooting](#-troubleshooting) •
-[Arquitectura](#-arquitectura)
-
-</div>
-
----
-
-## 📖 Tabla de Contenidos
-
-- [✨ Descripción](#-descripción)
-- [🎯 Características](#-características)
-- [📋 Requisitos](#-requisitos)
-- [🚀 Instalación](#-instalación)
-- [🎨 Personalización](#-personalización)
-- [⌨️ Comandos Personalizados](#-comandos-personalizados)
-- [🛠️ Atajos de Teclado](#-atajos-de-teclado)
-- [📁 Estructura del Proyecto](#-estructura-del-proyecto)
-- [🏗️ Arquitectura](#-arquitectura)
-- [🐛 Troubleshooting](#-troubleshooting)
-- [🤝 Contribuir](#-contribuir)
-- [📄 Licencia](#-licencia)
-
----
+Transforma tu PowerShell en una terminal hacker profesional con un solo click
 
 ## ✨ Descripción
 
@@ -52,8 +16,6 @@
 - 🚀 Comandos útiles preconfigurados
 
 ---
-
-## 🎯 Características
 
 ### 🎨 Visuales
 | Característica | Descripción |
@@ -115,3 +77,15 @@ Set-ExecutionPolicy Bypass -Scope Process -Force
 # 3. Ejecuta como Administrador
 .\Install-HackerTerminal.ps1
 
+```
+### Metodo 2: Click Derecho 
+1. Descarga Install-HackerTerminal.ps1
+2. Click derecho → **"Ejecutar con PowerShell"**
+3. Acepta los permisos de Administrador
+4. Espera 2-3 minutos
+5. Cierra y abre Windows Terminal
+
+### Metodo 3: Una sola linea (desde Github)
+```
+iex (irm "https://raw.githubusercontent.com/tu-usuario/hacker-terminal-2026/main/Install-HackerTerminal.ps1")
+```
